@@ -1,0 +1,34 @@
+.Login-container {
+    margin-top:20%;
+    text-align: center;
+}
+
+.Login-container img {
+    max-width: 95%;
+    margin: 0 auto 20px auto;
+}
+
+.Login-container button, input {
+    width: 85%;
+    outline:none;
+    border: none;
+    margin-top: 30px;
+    padding-left: 15px;
+}
+
+.Login-container button {
+    background-color: #2d3c53;
+    color: white;
+    height: 55px;
+    box-sizing: border-box;
+    font-size: 30px;
+}
+
+.Login-container input {
+    background-color: white;
+    color: #f79500;
+    border: 1px solid #999999;
+    height: 55px;
+    box-sizing: border-box;
+    font-size: 30px;
+}

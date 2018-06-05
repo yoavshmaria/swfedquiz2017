@@ -1,0 +1,22 @@
+.Thankyou-container {
+    margin-top:20%;
+    text-align: center;
+    max-width: 95%;
+}
+
+.Thankyou-container h1 {
+    font-size: 45px;
+    color: #2d3c53;
+    margin: 0;
+}
+
+.Thankyou-container h2 {
+    font-size: 25px;
+    color: #2d3c53;
+    margin: 0;
+}
+
+.Thankyou-container img {
+    max-width: 95%;
+    margin: 0 auto 20px auto;
+}
